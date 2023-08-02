@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Call for Papers
+title: Home
 ---
 
 [Register](https://ibm.webex.com/webappng/sites/ibm/webinar/webinarSeries/register/1a5fd1369db547498aae3cc8ed6b7d35)
@@ -34,18 +34,5 @@ The event is organized around 5 key questions of neuro-symbolic AI. We will addr
 The workshop will include over 15 IBM talks, and 5 panels in various areas of theory and the application of neuro-symbolic AI. We will also have over 15 distinguished external speakers to share an overview of neuro-symbolic AI and its history.
 This is a **virtual only event** and the **registration for the event is free**. The registered participants will get access to the recording of all sessions after the event.
 
-<ButtonLink
-  title="Register"
-  href="https://ibm.webex.com/webappng/sites/ibm/webinar/webinarSeries/register/1a5fd1369db547498aae3cc8ed6b7d35">
-  <span style="font-size: 140%">Register for free</span>
-</ButtonLink>
+[Register](https://ibm.webex.com/webappng/sites/ibm/webinar/webinarSeries/register/1a5fd1369db547498aae3cc8ed6b7d35)
 
-<br />
-
-## Organizers
-
-- Asim Munawar [website](https://research.ibm.com/people/asim-munawar), IBM Research, asim -*AT*- ibm -*-DoT-*- com (primary contact)
-- Pranava Madhyastha [website](https://www.city.ac.uk/about/people/academics/pranava-madhyastha), City, University of London
-- Ramon Fernandez Astudillo [website](https://mitibmwatsonailab.mit.edu/people/ramon-fernandez-astudillo/), IBM Research
-- Abulhair Saparov [website](https://asaparov.org/), New York University
-- Alessandra Russo [website](https://wp.doc.ic.ac.uk/arusso/), Imperial College London
