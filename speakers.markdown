@@ -16,55 +16,12 @@ title: Speakers
 :---------------:|:---------------:|:-------------:
 [Asim Munawar](https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim)<br>IBM Research | [Alexander Gray](https://research.gatech.edu/data/seminar-series/alexander-gray)<br>IBM Research | [Benjamin Grosof](https://benjamingrosof.com/)<br>AI Software Technology Innovator and Leader
 
-  
-<Person
-  name="Guy Van den Broeck"
-  url="https://web.cs.ucla.edu/~guyvdb/"
-  affiliation="Associate Professor, UCLA"
-  img="https://web.cs.ucla.edu/~guyvdb/img/photo.jpg"
-></Person>
 
-  
-<Person
-  name="Fabio Gagliardi Cozman"
-  url="http://sites.poli.usp.br/p/fabio.cozman/"
-  affiliation="Full Professor at University of Sao Paulo"
-  img="http://sites.poli.usp.br/p/fabio.cozman/img/profile-pic-02.png"
-></Person>
-  
-  
-<Person
-  name="Naoki Abe"
-  url="https://researcher.watson.ibm.com/researcher/view.php?person=us-nabe"
-  affiliation="IBM"
-  img="https://pbs.twimg.com/profile_images/716099845224861696/xVk9MoCM_400x400.jpg"
-></Person>
-  
-<Person 
-   name="Asim Munawar" 
-   url="https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim" 
-   affiliation="Program Director for Neuro-Symbolic AI, IBM Research" 
-   img="https://s3.us.cloud-object-storage.appdomain.cloud/res-photos/9443.jpg"
-></Person>
-  
-<Person 
-   name="Soham Dan" 
-   url="https://scholar.google.com/citations?user=nOsmu8UAAAAJ&hl=en" 
-   affiliation="IBM Research" 
-   img="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=nOsmu8UAAAAJ&citpid=7"
-></Person>
+<img src="https://web.cs.ucla.edu/~guyvdb/img/photo.jpg" alt="Guy" width="250"/>|  <img src="http://sites.poli.usp.br/p/fabio.cozman/img/profile-pic-02.png" alt="Fabio" width="250"/> |  <img src="https://pbs.twimg.com/profile_images/716099845224861696/xVk9MoCM_400x400.jpg" alt="Naoki" width="250"/> |
+:---------------:|:---------------:|:-------------:
+[Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/)<br>UCLA | [Fabio Gagliardi Cozman](http://sites.poli.usp.br/p/fabio.cozman/)<br>University of San Paulo | [Naoki Abe](https://researcher.watson.ibm.com/researcher/view.php?person=us-nabe)<br>IBM
 
-<Person 
-   name="Luc De Raedt" 
-   url="https://wms.cs.kuleuven.be/people/lucderaedt" 
-   affiliation="KU Leuven" 
-   img="https://wms.cs.kuleuven.be/people/lucderaedt/luc-de-raedt.jpg/image"
-></Person>
 
-<Person 
-   name="Parikshit Ram" 
-   url="https://www.linkedin.com/in/parikshit-ram-4861325/" 
-   affiliation="IBM Research" 
-   img="https://media.licdn.com/dms/image/C4E03AQGoyK6hAguS2A/profile-displayphoto-shrink_800_800/0/1517728473291?e=1696464000&v=beta&t=jzSN7lpkTY8oFao0T0vBqxgYu_8AwKY330FSJe_j3Jo"
-></Person>
-  
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=nOsmu8UAAAAJ&citpid=7" alt="Soham" width="250"/>|  <img src="https://wms.cs.kuleuven.be/people/lucderaedt/luc-de-raedt.jpg/image" alt="Luc" width="250"/> |  <img src="https://media.licdn.com/dms/image/C4E03AQGoyK6hAguS2A/profile-displayphoto-shrink_800_800/0/1517728473291?e=1696464000&v=beta&t=jzSN7lpkTY8oFao0T0vBqxgYu_8AwKY330FSJe_j3Jo" alt="Parikshit" width="250"/> |
+:---------------:|:---------------:|:-------------:
+[Soham Dan](https://scholar.google.com/citations?user=nOsmu8UAAAAJ&hl=en)<br>IBM | [Luc De Raedt](https://wms.cs.kuleuven.be/people/lucderaedt)<br>KU Leuven | [Parikshit Ram](https://www.linkedin.com/in/parikshit-ram-4861325/)<br>IBM
