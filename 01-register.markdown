@@ -4,6 +4,7 @@
 
 layout: page
 title: Register
+permalink: "register.html"
 ---
 
 Registration for the event is free of cost. Registration is required to attend the event.
