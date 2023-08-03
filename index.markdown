@@ -10,7 +10,7 @@ order: 1
 [Register](https://ibm.webex.com/webappng/sites/ibm/webinar/webinarSeries/register/1a5fd1369db547498aae3cc8ed6b7d35)
 
 
-'While initially IBM events, from now on these will be general research community events, owing to the explosion of interest in this emerging topic we have observed.  This summer’s event is also being organized in collaboration with leaders of the NeSy annual meeting.'
+<span style="color:red">While initially IBM events, from now on these will be general research community events, owing to the explosion of interest in this emerging topic we have observed.  This summer’s event is also being organized in collaboration with leaders of the NeSy annual meeting.</span>
 
 
 A new era of AI is rapidly emerging: neuro-symbolic AI combines knowledge-driven, symbolic AI with data-driven machine learning approaches. IBM is a leader in the research and development of neuro-symbolic AI technologies and we invite graduate students, AI practitioners, and anyone interested in this emerging field to participate in the IBM Neuro-Symbolic AI Summer School 2023, that will be held on August 28-30 as a virtual event.
