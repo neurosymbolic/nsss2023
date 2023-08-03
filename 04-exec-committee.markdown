@@ -4,6 +4,7 @@
 
 layout: page
 title: Executive Committee
+permalink: "execcommittee.html"
 ---
 
 <img src="https://kbrl.github.io/img/asim.jpg" alt="Asim" width="250"/>|  <img src="https://cs.uchicago.edu/wp-content/uploads/2019/10/gray_alex_0319_033-panel_cut_lower-250x250.jpg" alt="Alex" width="250"/> |  <img src="https://benjamingrosof.com/wp-content/uploads/2013/05/photo-Grosof-201305.jpg" alt="Benjamin" width="250"/> |
