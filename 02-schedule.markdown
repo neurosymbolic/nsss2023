@@ -34,7 +34,7 @@ permalink: "schedule.html"
 | 10:45 - 11:15	| TBD | TBD |
 | 11:15 - 11:45	| Thinking fast and slow | Francesca Rossi |
 | 11:45 - 12:15	| TBD | TBD |
-| 12:15 - 13:00	| Lunch break | |
-| 13:00 - 13:30	| | Yoshua Benjio |
-| 13:30 - 14:30	| Panel | Moderator (Alex Gray) |
+| 12:15 - 13:30	| Lunch break | |
+| 13:30 - 14:00	| | Yoshua Benjio |
+| 14:00 - 15:00	| Panel | Moderator (Alex Gray) |
 
