@@ -7,8 +7,7 @@ title: Home
 permalink: "index.html"
 ---
 
-[Register](https://ibm.webex.com/webappng/sites/ibm/webinar/webinarSeries/register/1a5fd1369db547498aae3cc8ed6b7d35)
-
+[Register](https://neurosymbolic.github.io/nsss2023/register.html)
 
 <span style="color:red">While initially IBM events, from now on these will be general research community events, owing to the explosion of interest in this emerging topic we have observed.  This summer’s event is also being organized in collaboration with leaders of the NeSy annual meeting.</span>
 
