@@ -12,7 +12,7 @@ permalink: "execcommittee.html"
 [Asim Munawar](https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim)<br>IBM Research | [Alexander Gray](https://research.gatech.edu/data/seminar-series/alexander-gray)<br>IBM Research | [Benjamin Grosof](https://benjamingrosof.com/)<br>AI Software Technology Innovator and Leader
 
 
-<img src="https://s3.us.cloud-object-storage.appdomain.cloud/res-photos/8687.jpg" alt="Francesca" width="250"/>|  <img src="https://www.city.ac.uk/__data/assets/image/0017/600164/varieties/breakpoint-desktop.jpg" alt="Artur" width="250"/> |  <img src="[https://www.inf.ufrgs.br/~lamb/LambApr05Regents.jpg](https://s3.us.cloud-object-storage.appdomain.cloud/res-files/2874-spk-luis.png)" alt="Luis" width="250"/> |
+<img src="https://s3.us.cloud-object-storage.appdomain.cloud/res-photos/8687.jpg" alt="Francesca" width="250"/>|  <img src="https://www.city.ac.uk/__data/assets/image/0017/600164/varieties/breakpoint-desktop.jpg" alt="Artur" width="250"/> |  <img src="https://s3.us.cloud-object-storage.appdomain.cloud/res-files/2874-spk-luis.png" alt="Luis" width="250"/> |
 :---------------:|:---------------:|:-------------:
 [Francesca Rossi](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2)<br>IBM Research | [Artur d'Avila Garcez](https://www.city.ac.uk/about/people/academics/artur-davila-garcez)<br>University of London | [Luís C. Lamb](https://www.inf.ufrgs.br/~lamb/)<br>UFRGS
 
