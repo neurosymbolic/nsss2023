@@ -29,7 +29,7 @@ permalink: "schedule.html"
 |-----------|-------|---------|
 | 9:00 - 9:30 | Robus logical neural networks | Naoki Abe |
 | 9:30 - 10:00 | Semantic layer | Guy van den Broeck |
-| 10:00 - 10:30	| Vector symbolic architectures | Abbas |
+| 10:00 - 10:30	| Neuro-vector symbolic architectures | Michael Hersche, Abbas Rahimi |
 | 10:30 - 10:45 | Coffee Break | |
 | 10:45 - 11:15	| TBD | TBD |
 | 11:15 - 11:45	| Thinking fast and slow | Francesca Rossi |
