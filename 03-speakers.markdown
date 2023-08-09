@@ -18,7 +18,7 @@ permalink: "speakers.html"
 [Asim Munawar](https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim)<br>IBM Research | [Alexander Gray](https://research.gatech.edu/data/seminar-series/alexander-gray)<br>IBM Research | [Benjamin Grosof](https://benjamingrosof.com/)<br>AI Software Technology Innovator and Leader
 
 
-<img src="https://web.cs.ucla.edu/~guyvdb/img/photo.jpg" alt="Guy" width="250"/>|  <img src="http://sites.poli.usp.br/p/fabio.cozman/img/profile-pic-02.png" alt="Fabio" width="250"/> |  <img src="https://pbs.twimg.com/profile_images/716099845224861696/xVk9MoCM_400x400.jpg" alt="Naoki" width="250"/> |
+<img src="https://web.cs.ucla.edu/~guyvdb/img/photo.jpg" alt="Guy" width="250"/>|  <img src="https://neurosymbolic.github.io/nsss2023/data/fabio.png" alt="Fabio" width="250"/> |  <img src="https://pbs.twimg.com/profile_images/716099845224861696/xVk9MoCM_400x400.jpg" alt="Naoki" width="250"/> |
 :---------------:|:---------------:|:-------------:
 [Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/)<br>UCLA | [Fabio Gagliardi Cozman](http://sites.poli.usp.br/p/fabio.cozman/)<br>University of San Paulo | [Naoki Abe](https://researcher.watson.ibm.com/researcher/view.php?person=us-nabe)<br>IBM
 
