@@ -9,10 +9,7 @@ permalink: "register.html"
 
 Registration for the event is free of cost. Registration is required to attend the event.
 
-[Register for free](https://www.eventbrite.com/e/neuro-symbolic-ai-summer-school-2023-tickets-695433990787?aff=oddtdtcreator)
-
 <button onclick="window.location.href = 'https://www.eventbrite.com/e/neuro-symbolic-ai-summer-school-2023-tickets-695433990787?aff=oddtdtcreator';">Register for free</button>
-
 
 <span style="color:orange">To never miss a future event, select yes to the future communication question during registration.</span>
 
