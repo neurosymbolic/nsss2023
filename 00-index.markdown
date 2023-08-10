@@ -9,13 +9,11 @@ permalink: "index.html"
 
 [Register](https://neurosymbolic.github.io/nsss2023/register.html)
 
-<span style="color:red">Event recordings will be made available only to the registered participants.</span>
-
 <img src="https://neurosymbolic.github.io/nsss2023/data/poster.png" alt="Poster"/>
 
 <span style="color:red">While initially IBM events, from now on these will be general research community events, owing to the explosion of interest in this emerging topic we have observed.  This summer’s event is also being organized in collaboration with leaders of the NeSy annual meeting.</span>
 
-For more details on NeSy, visit https://www.city-data-science-institute.com/nesy
+For more details on NeSy, visit [https://www.city-data-science-institute.com/nesy](https://www.city-data-science-institute.com/nesy).
 
 A new era of AI is rapidly emerging: neuro-symbolic AI combines knowledge-driven, symbolic AI with data-driven machine learning approaches. We invite graduate students, AI practitioners, and anyone interested in this emerging field to participate in the Neuro-Symbolic AI Summer School 2023, which will be held on August 29-30 as a virtual event.
 
