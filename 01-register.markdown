@@ -7,10 +7,10 @@ title: Register
 permalink: "register.html"
 ---
 
-Registration for the event is free of cost. Registration is required to attend the event.
+Registration is required to attend the event. Recordings will be made available only to the registered participants.
 
 <button onclick="window.location.href = 'https://www.eventbrite.com/e/neuro-symbolic-ai-summer-school-2023-tickets-695433990787?aff=oddtdtcreator';">Register for free</button>
 
-You can follow the lead organizer (Asim Munawar) to get information on any future events.
+**Never miss a future event, follow Asim Munawar (lead organizer) on LinkedIn and Twitter.**
  - [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
  - [Twitter](https://twitter.com/asimunawar)
