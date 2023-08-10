@@ -16,7 +16,7 @@ permalink: "schedule.html"
 | 10:00 - 11:00 | KRR2 | Benjamin Grosof, Alex Gray |
 | 11:00 - 12:00 | KRR3 | Benjamin Grosof, Alex Gray |
 | 12:00 - 13:00 | Lunch Break | |
-| 13:00 - 14:00 | Prob semantics | (Fabrizio, Cozman, Alex Gray) |
+| 13:00 - 14:00 | Prob semantics | (Fabrizio Riguzzi, Fabio Cozman, Alex Gray) |
 | 14:00 - 15:00	| Problog | Luc de Raedt |
 | 15:00 - 15:30 | Coffee Break | |
 | 15:30 - 16:30 | Robus logic - limits of learning | Leslie Valiant |
@@ -35,6 +35,6 @@ permalink: "schedule.html"
 | 11:15 - 11:45	| Thinking fast and slow | Francesca Rossi |
 | 11:45 - 12:15	| TBD | TBD |
 | 12:15 - 13:30	| Lunch break | |
-| 13:30 - 14:00	| | Yoshua Benjio |
+| 13:30 - 14:00	| | Yoshua Bengio |
 | 14:00 - 15:00	| Panel | Moderator (Alex Gray) |
 
