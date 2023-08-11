@@ -20,7 +20,7 @@ A new era of AI is rapidly emerging: neuro-symbolic AI combines knowledge-driven
 This event is a follow-on to the 1st summer school on the topic we held in August 2022. We also organize an annual workshop on the topic in January of each year. These events showcase the breadth and depth of the work being done in this field. Participation in the previous events is not a prerequisite for attending the upcoming workshop. All the talks in the workshop are meant to be self-contained. To access the previous events agenda page and recordings, visit:
 
 - [IBM Neuro-Symbolic AI Workshop 2022](http://ibm.biz/ns-wkshp)
-- [IBM Neuro-Symbolic AI Summer School 2022](http://ibm.biz/nsss2022)
+- [IBM Neuro-Symbolic AI Summer School 2022](https://ibm.github.io/neuro-symbolic-ai/events/ns-summerschool2022)
 - [IBM Neuro-Symbolic AI Workshop 2023](https://ibm.biz/nsworkshop2023) - Recordings available
 
 
