@@ -20,7 +20,6 @@ permalink: "schedule.html"
 | 14:00 - 15:00	| Reasoning with large language models | Abulhair Saparov |
 | 15:00 - 15:30 | Coffee Break | |
 | 15:30 - 16:30 | Limits of learning, and theory of learning logic | Leslie Valiant |
-| 16:30 - 17:30 | Compositional generalization | Soham Dan, Parikshit Ram |
 
 
 ## Day 2 (August 30, 2023)
@@ -33,7 +32,7 @@ permalink: "schedule.html"
 | 10:30 - 10:45 | Coffee Break | |
 | 10:45 - 11:15	| Semantic layers for neural networks | Guy van den Broeck |
 | 11:15 - 11:45	| Thinking fast and slow | Francesca Rossi |
-| 11:45 - 12:15	| TBD | TBD |
+| 11:45 - 12:15	| Utilizing knowledge in compositional generalization | Tim Klinger |
 | 12:15 - 13:30	| Lunch break | |
 | 13:30 - 14:00	| | Yoshua Bengio |
 | 14:00 - 15:00	| Panel | Moderator (Alex Gray) |
