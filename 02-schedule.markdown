@@ -32,7 +32,7 @@ permalink: "schedule.html"
 | 9:30 - 10:00 | Deep learning with logical constraints | Eleonora Giunchiglia |
 | 10:00 - 10:30	| Neuro-vector symbolic architectures | Michael Hersche |
 | 10:30 - 10:45 | Coffee Break | |
-| 10:45 - 11:15	| Semantic layers for neural networks | Guy van den Broeck |
+| 10:45 - 11:15	| AI can learn from data. But can it learn to reason? | Guy van den Broeck |
 | 11:15 - 11:45	| Thinking fast and slow in AI planning | Francesca Rossi |
 | 11:45 - 12:15	| Utilizing knowledge in compositional generalization | Tim Klinger |
 | 12:15 - 13:30	| Lunch break | |
