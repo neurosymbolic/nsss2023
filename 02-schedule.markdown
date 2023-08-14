@@ -33,7 +33,7 @@ permalink: "schedule.html"
 | 10:00 - 10:30	| Neuro-vector symbolic architectures | Michael Hersche |
 | 10:30 - 10:45 | Coffee Break | |
 | 10:45 - 11:15	| Semantic layers for neural networks | Guy van den Broeck |
-| 11:15 - 11:45	| Thinking fast and slow | Francesca Rossi |
+| 11:15 - 11:45	| Thinking fast and slow in AI planning | Francesca Rossi |
 | 11:45 - 12:15	| Utilizing knowledge in compositional generalization | Tim Klinger |
 | 12:15 - 13:30	| Lunch break | |
 | 13:30 - 14:00	| | Yoshua Bengio |
