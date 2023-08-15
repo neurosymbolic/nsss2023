@@ -8,7 +8,7 @@ permalink: "speakers.html"
 ---
 
 
-<img src="https://yoshuabengio.org/wp-content/uploads/2021/12/1.BENGIO_Yoshua_credit_Camille-Gladu-Drouin_dec2019-1-1-768x512.jpg" alt="Yoshua" width="250"/>|  <img src="https://people.seas.harvard.edu/~valiant/1.jpg" alt="Leslie" width="250"/> |  <img src="https://ml.unife.it/wp-content/uploads/2019/05/fabrizio.riguzzi500-e1558077965634.png" alt="Benjamin" width="250"/> |
+<img src="https://neurosymbolic.github.io/nsss2023/data/yoshua.jpeg" alt="Yoshua" width="250"/>|  <img src="https://people.seas.harvard.edu/~valiant/1.jpg" alt="Leslie" width="250"/> |  <img src="https://ml.unife.it/wp-content/uploads/2019/05/fabrizio.riguzzi500-e1558077965634.png" alt="Benjamin" width="250"/> |
 :---------------:|:---------------:|:-------------:
 [Yoshua Bengio](https://yoshuabengio.org/)<br>Université de Montréal | [Leslie Valiant](https://people.seas.harvard.edu/~valiant/)<br>Professor at Harvard University | [Fabrizio Riguzzi](https://ml.unife.it/fabrizio-riguzzi/)<br>University of Ferrara
 
