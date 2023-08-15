@@ -13,9 +13,9 @@ permalink: "speakers.html"
 [Yoshua Bengio](https://yoshuabengio.org/)<br>Université de Montréal | [Leslie Valiant](https://people.seas.harvard.edu/~valiant/)<br>Professor at Harvard University | [Fabrizio Riguzzi](https://ml.unife.it/fabrizio-riguzzi/)<br>University of Ferrara
 
 
-<img src="https://kbrl.github.io/img/asim.jpg" alt="Asim" width="250"/>|  <img src="https://cs.uchicago.edu/wp-content/uploads/2019/10/gray_alex_0319_033-panel_cut_lower-250x250.jpg" alt="Alex" width="250"/> |  <img src="https://benjamingrosof.com/wp-content/uploads/2013/05/photo-Grosof-201305.jpg" alt="Benjamin" width="250"/> |
+<img src="https://media.licdn.com/dms/image/C4E03AQHmxJrWsbPXoQ/profile-displayphoto-shrink_800_800/0/1644262326862?e=1697673600&v=beta&t=V2XyKAxOxsO833dGYI3O-3Yd-tuH5ZOYZclziog2YUU" alt="Abu" width="250"/>|  <img src="https://cs.uchicago.edu/wp-content/uploads/2019/10/gray_alex_0319_033-panel_cut_lower-250x250.jpg" alt="Alex" width="250"/> |  <img src="https://benjamingrosof.com/wp-content/uploads/2013/05/photo-Grosof-201305.jpg" alt="Benjamin" width="250"/> |
 :---------------:|:---------------:|:-------------:
-[Asim Munawar](https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim)<br>IBM Research | [Alexander Gray](https://research.gatech.edu/data/seminar-series/alexander-gray)<br>IBM Research | [Benjamin Grosof](https://benjamingrosof.com/)<br>AI Software Technology Innovator and Leader
+[Abulhair Saparov](https://asaparov.org/)<br>NYU | [Alexander Gray](https://research.gatech.edu/data/seminar-series/alexander-gray)<br>IBM Research | [Benjamin Grosof](https://benjamingrosof.com/)<br>AI Software Technology Innovator and Leader
 
 
 <img src="https://web.cs.ucla.edu/~guyvdb/img/photo.jpg" alt="Guy" width="250"/>|  <img src="https://neurosymbolic.github.io/nsss2023/data/fabio.png" alt="Fabio" width="250"/> |  <img src="https://pbs.twimg.com/profile_images/716099845224861696/xVk9MoCM_400x400.jpg" alt="Naoki" width="250"/> |
