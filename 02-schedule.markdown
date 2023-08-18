@@ -19,7 +19,7 @@ permalink: "schedule.html"
 | 12:30 - 13:30 | Problog | Luc de Raedt |
 | 13:30 - 14:30	| Reasoning with large language models | Abulhair Saparov |
 | 14:30 - 14:45 | Coffee Break | |
-| 14:45 - 15:45| Limits of learning, and theory of learning logic | Leslie Valiant |
+| 14:45 - 15:45 | Robust Logic: Past, Present and Future | Leslie Valiant |
 | 15:45 - 16:15 | Compositional generalization | Parikshit Ram, Soham Dan |
 | 16:15 - 17:00 | Panel | Grosof, Riguzzi, Cozman, de Raedt, Saparov, Ram, Dan, Valiant (Moderator Alex Gray) |
 
