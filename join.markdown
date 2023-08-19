@@ -1,4 +1,4 @@
-## Day 1 - Neuro-Symbolic AI Summer School 2023
+**Day 1 - Neuro-Symbolic AI Summer School 2023**
 
 Date and time:
 Tuesday, August 29, 2023 8:30 AM | (UTC-04:00) Eastern Time (US & Canada)
@@ -19,7 +19,7 @@ Access code: 263 043 91077
 
 
 
-## Day 2 - Neuro-Symbolic AI Summer School 2023
+**Day 2 - Neuro-Symbolic AI Summer School 2023**
 
 Date and time:
 Wednesday, August 30, 2023 8:30 AM | (UTC-04:00) Eastern Time (US & Canada)
