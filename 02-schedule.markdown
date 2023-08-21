@@ -36,7 +36,7 @@ permalink: "schedule.html"
 | 11:15 - 11:45	| Thinking fast and slow in AI planning | Francesca Rossi |
 | 11:45 - 12:15	| Utilizing knowledge in compositional generalization | Tim Klinger |
 | 12:15 - 13:00	| Lunch break | |
-| 13:00 - 13:30 | | Christopher Potts |
+| 13:00 - 13:30 | Causal abstraction for faithful, human-interpretable model explanations | Christopher Potts |
 | 13:30 - 14:00	| | Yoshua Bengio |
 | 14:00 - 15:00	| Panel | Abe, Giunchiglia, Hersche, van den Broeck, Rossi, Klinger, Potts, Bengio (Moderator Alex Gray) |
 
