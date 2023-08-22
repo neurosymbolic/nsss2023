@@ -29,7 +29,7 @@ permalink: "schedule.html"
 | Time (ET) | Title | Speaker |
 |-----------|-------|---------|
 | 9:00 - 9:30 | Some extensions and applications of Robust Logic | Naoki Abe |
-| 9:30 - 10:00 | Deep learning with logical constraints | Eleonora Giunchiglia |
+| 9:30 - 10:00 | Deep Learning with Logical Requirements | Eleonora Giunchiglia |
 | 10:00 - 10:30	| Neuro-vector symbolic architectures | Michael Hersche |
 | 10:30 - 10:45 | Coffee Break | |
 | 10:45 - 11:15	| AI can learn from data. But can it learn to reason? | Guy van den Broeck |
