@@ -9,7 +9,7 @@ permalink: "execcommittee.html"
 
 <img src="https://kbrl.github.io/img/asim.jpg" alt="Asim" width="250"/>|  <img src="https://cs.uchicago.edu/wp-content/uploads/2019/10/gray_alex_0319_033-panel_cut_lower-250x250.jpg" alt="Alex" width="250"/> |  <img src="https://benjamingrosof.com/wp-content/uploads/2013/05/photo-Grosof-201305.jpg" alt="Benjamin" width="250"/> |
 :---------------:|:---------------:|:-------------:
-[Asim Munawar](https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim)<br>IBM Research | [Alexander Gray](https://research.gatech.edu/data/seminar-series/alexander-gray)<br>IBM Research | [Benjamin Grosof](https://benjamingrosof.com/)<br>AI Software Technology Innovator and Leader
+[Asim Munawar](https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim)<br>(Assistant Chair)<br>IBM Research | [Alexander Gray](https://research.gatech.edu/data/seminar-series/alexander-gray)<br>(Chair)<br>IBM Research | [Benjamin Grosof](https://benjamingrosof.com/)<br>AI Software Technology Innovator and Leader
 
 
 <img src="https://s3.us.cloud-object-storage.appdomain.cloud/res-photos/8687.jpg" alt="Francesca" width="250"/>|  <img src="https://www.city.ac.uk/__data/assets/image/0017/600164/varieties/breakpoint-desktop.jpg" alt="Artur" width="250"/> |  <img src="https://neurosymbolic.github.io/nsss2023/data/luis.jpeg" alt="Luis" width="250"/> |
