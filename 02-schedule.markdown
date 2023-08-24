@@ -16,7 +16,7 @@ permalink: "schedule.html"
 | 10:00 - 11:00 | Practical logical reasoning | Benjamin Grosof, Alex Gray |
 | 11:00 - 12:00 | Logic with probabilities | Fabrizio Riguzzi, Fabio Cozman, Alex Gray |
 | 12:00 - 12:30 | Lunch Break | |
-| 12:30 - 13:30 | Problog | Luc de Raedt |
+| 12:30 - 13:30 | From Probabilistic Logics to Neurosymbolic AI | Luc de Raedt |
 | 13:30 - 14:30	| Reasoning with large language models | Abulhair Saparov |
 | 14:30 - 14:45 | Coffee Break | |
 | 14:45 - 15:45 | Robust Logic: Past, Present and Future | Leslie Valiant |
