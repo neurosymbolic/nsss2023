@@ -12,9 +12,9 @@ permalink: "schedule.html"
 
 | Time (ET) | Title | Speaker |
 |-----------|-------|---------|
-| 9:00 - 10:00 | Intro to Practical Knowledge Representation and Logic | Benjamin Grosof, Alex Gray |
-| 10:00 - 11:00 | State-of-the-Art Practical Reasoning and Meta-Logic | Benjamin Grosof, Alex Gray |
-| 11:00 - 12:00 | Logic with probabilities | Fabrizio Riguzzi, Fabio Cozman, Alex Gray |
+| 9:00 - 10:00 | Intro to Practical Knowledge Representation and Logic | Benjamin Grosof |
+| 10:00 - 11:00 | State-of-the-Art Practical Reasoning and Meta-Logic | Benjamin Grosof |
+| 11:00 - 12:00 | Logic with probabilities | Fabrizio Riguzzi, Fabio Cozman |
 | 12:00 - 12:30 | Lunch Break | |
 | 12:30 - 13:30 | From Probabilistic Logics to Neurosymbolic AI | Luc de Raedt |
 | 13:30 - 14:30	| Reasoning with large language models | Abulhair Saparov |
