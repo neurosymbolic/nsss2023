@@ -3,6 +3,6 @@ If you have not registered yet, please do so at [https://neurosymbolic.github.io
 
 **How to access event recordings**
 
-- [https://twitter.com/asimunawar](Follow us on twitter)
+- [Follow us on twitter](https://twitter.com/asimunawar)
 - Wait for approval (takes few hours at most)
-- Access playbacks and other content like slide pdfs, QAs, Chat history etc. at [https://twitter.com/asimunawar/status/1696850589299229130](Neuro-Symbolic AI Summer School 2023 - Playback)
+- Access playbacks and other content like slide pdfs, QAs, Chat history etc. at [Neuro-Symbolic AI Summer School 2023 - Playback](https://twitter.com/asimunawar/status/1696850589299229130)
