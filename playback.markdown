@@ -8,5 +8,11 @@ If you have not registered yet, please do so at [REGISTER](https://neurosymbolic
 - Access playbacks and other content like slide pdfs, QAs, Chat history etc. at [Neuro-Symbolic AI Summer School 2023 - Playback](https://twitter.com/asimunawar/status/1696850589299229130)
 - `Subscribe to YouTube Channel to get timely access to all future uploads`
 
+Note: In case you have some concerns using Twitter (X), you can reach out to me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/) or Email (ASIM ATMARK IBM DOT COM). However, it may take some time for me to reply back.
 
-**Note:** In case you have some concerns using Twitter (X), you can reach out to me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/) or Email (ASIM ATMARK IBM DOT COM). However, it may take some time for me to reply back.
+**Stay connected with us**
+
+- [Alexander Gray - LinkedIn](https://www.linkedin.com/in/alexander-gray-b554b64/)
+- [Asim Munawar - LinkedIn](https://www.linkedin.com/in/asimmunawar/)
+
+
