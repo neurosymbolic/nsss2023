@@ -1,9 +1,6 @@
 **Important information**
 
-- For information on recordings, future events, follow me on X (twitter) and LinkedIn
-   - [https://twitter.com/asimunawar](https://twitter.com/asimunawar)
-   - [https://www.linkedin.com/in/asimmunawar/](https://www.linkedin.com/in/asimmunawar/)
-- `WebEx tool we are using has a maximum attendance limitation of 1000. If we exceed this limit you will not be able to join. If that happens, please try to join again in 10 - 15 minutes. Also please remember the all the recordings will be made available to the registered participants.`
+- [Recordings of Day 1](https://neurosymbolic.github.io/nsss2023/playback.html)
 
 ---
 
