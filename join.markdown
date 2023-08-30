@@ -1,4 +1,4 @@
-**Important information**
+**Day 1 - Neuro-Symbolic AI Summer School 2023**
 
 - [Recordings of Day 1](https://neurosymbolic.github.io/nsss2023/playback.html)
 
