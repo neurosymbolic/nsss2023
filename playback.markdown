@@ -6,3 +6,6 @@ If you have not registered yet, please do so at [REGISTER](https://neurosymbolic
 - [Follow us on twitter](https://twitter.com/asimunawar)
 - Wait for approval (take few hours at most)
 - Access playbacks and other content like slide pdfs, QAs, Chat history etc. at [Neuro-Symbolic AI Summer School 2023 - Playback](https://twitter.com/asimunawar/status/1696850589299229130)
+
+
+**Note:** In case you have some concerns using Twitter (X), you can reach out to me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/) or Email (ASIM ATMARK IBM DOT COM). However, it may take some time for me to reply back.
