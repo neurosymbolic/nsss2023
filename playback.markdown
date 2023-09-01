@@ -1,6 +1,3 @@
-Thank you for registering for neuro-symbolic AI summer school 2023.
-If you have not registered yet, please do so at [REGISTER](https://neurosymbolic.github.io/nsss2023/register.html). Without registration, you will not be able to access the videos. 
-
 **How to access event recordings**
 
 - [Follow us on twitter](https://twitter.com/asimunawar)
