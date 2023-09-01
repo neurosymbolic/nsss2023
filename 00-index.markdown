@@ -7,7 +7,7 @@ title: Home
 permalink: "index.html"
 ---
 
-[Register](https://neurosymbolic.github.io/nsss2023/register.html)
+**Access Recordings of the Event: Follow Instructions at** [Event Playback](https://neurosymbolic.github.io/nsss2023/playback.html)
 
 <img src="https://neurosymbolic.github.io/nsss2023/data/poster-new.png" alt="Poster"/>
 
