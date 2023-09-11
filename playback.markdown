@@ -1,7 +1,7 @@
 **How to access event recordings**
 
-- [Follow us on twitter](https://twitter.com/asimunawar)
-- Wait for approval (take few hours at most)
+- [Follow me -Asim- on twitter](https://twitter.com/asimunawar) (I tweet about the latest developments and events related to Neuro-Symbolic AI and Generative AI)
+- Wait for approval (take a few hours at most)
 - Access playbacks and other content like slide pdfs, QAs, Chat history etc. at [Neuro-Symbolic AI Summer School 2023 - Playback](https://twitter.com/asimunawar/status/1696850589299229130)
 - `Subscribe to YouTube Channel to get timely access to all future uploads`
 
