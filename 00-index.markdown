@@ -7,31 +7,25 @@ title: Home
 permalink: "index.html"
 ---
 
-**Access Recordings of the Event: Follow Instructions at** [Event Playback](https://neurosymbolic.github.io/nsss2023/playback.html)
+Please join us for the 3rd Neuro-Symbolic Summer School (NSSS), to be held Sep 4-6, 2024. 
 
-<img src="https://neurosymbolic.github.io/nsss2023/data/poster-new.png" alt="Poster"/>
+NSSS '24 is the latest in a series of events that alternate between research workshops and summer schools that aim to accelerate progress in the fast-emerging area of neuro-symbolic AI by teaching graduate students, data scientists, and researchers principles from the side of AI they may be less familiar with, as well as presenting emerging research ideas at the intersection.
 
-<span style="color:red">While initially IBM events, from now on these will be general research community events, owing to the explosion of interest in this emerging topic we have observed.  This summer’s event is also being organized in collaboration with leaders of the NeSy annual meeting.</span>
+ Confirmed speakers this year will include:
+- Paul Smolensky, Microsoft Research
+- Alvaro Velasquez, DARPA
+- Alessandra Russo, Imperial College London
+- The next generation of AI startups, focusing on neuro-symbolic AI
+with more to be announced.
 
-For more details on NeSy, visit [https://www.city-data-science-institute.com/nesy](https://www.city-data-science-institute.com/nesy).
+Our last Neuro-Symbolic Summer School event (2023), attracted 3500+ registrants and featured top researchers including two Turing Award winners, Les Valiant and Yoshua Bengio.
+ 
+The focus of the event is on techniques, in particular those which augment neural network/ML ideas with symbolic AI ideas, to address at least three main open problems of AI:  1) human interpretability/controllability, 2) learning with less data/computation (e.g. via knowledge), and 3) out-of-distribution generalization (e.g. via reasoning).  
 
-A new era of AI is rapidly emerging: neuro-symbolic AI combines knowledge-driven, symbolic AI with data-driven machine learning approaches. We invite graduate students, AI practitioners, and anyone interested in this emerging field to participate in the Neuro-Symbolic AI Summer School 2023, which will be held on August 29-30 as a virtual event.
+- [Winter 2024:  AAAI 2024 Workshop on Neuro-Symbolic Learning and Reasoning in the era of Large Language Models (NucLeaR) (3rd research event)](https://nuclear-workshop.github.io)
+- [Summer 2023: 3500+ registrations (2nd education event)](https://neurosymbolic.github.io/nsss2023)
+- [Winter 2023: 5000+ registrations (2nd research event)](https://ibm.biz/nsworkshop2023)
+- [Summer 2022: 6000+ registrations (1st educational event)](http://ibm.biz/nsss2022)
+- [Winter 2022:  1500+ registrations (1st research event)](http://ibm.biz/ns-wkshp)
 
-This event is a follow-on to the 1st summer school on the topic we held in August 2022. We also organize an annual workshop on the topic in January of each year. These events showcase the breadth and depth of the work being done in this field. Participation in the previous events is not a prerequisite for attending the upcoming workshop. All the talks in the workshop are meant to be self-contained. To access the previous events agenda page and recordings, visit:
-
-- [IBM Neuro-Symbolic AI Workshop 2022](http://ibm.biz/ns-wkshp)
-- [IBM Neuro-Symbolic AI Summer School 2022](https://ibm.github.io/neuro-symbolic-ai/events/ns-summerschool2022)
-- [IBM Neuro-Symbolic AI Workshop 2023](https://ibm.biz/nsworkshop2023) - Recordings available
-
-
-**What is Neuro-Symbolic AI?**
-Compared to pure neural approaches, our key goals for a neuro-symbolic AI system include:
-
-1. Learning with less and zero-shot learning; we hypothesize this can be aided by symbolic human knowledge.
-2. Generalization of the solutions to unseen tasks and unforeseen data distributions; we hypothesize this can be aided by reasoning.
-3. Explainability by construction; we hypothesize this can be aided by human-readable knowledge and step-by-step explanation of the reasoning process.
-
-The summer school will include invited talks, panels, and tutorials in various areas of theory and the application of neuro-symbolic AI. We feel lucky to have two Turing award winners with us as distinguished invited speakers this year.
-
-This is a **virtual only event** and the **registration for the event is free**. The registered participants will get access to the recording of all sessions after the event.
-
+While initially organized by IBM Research, these activities are now general research community events under the auspices of the new non-profit Centaur AI Institute, organized in collaboration with leaders of the NeSy annual meeting, owing to the explosion of interest in this emerging topic we have observed.  
